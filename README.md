@@ -1,6 +1,6 @@
-# Shubham Patel - Portfolio
+# Maitri Patel - Portfolio
 
-Welcome to the portfolio of Shubham Patel, a professional web developer who specialises in Angular, HTML5, HTML, JavaScript, Node.js, CSS, GitHub, and Hostinger. Explore a handpicked collection of my finest web development work, including Angular websites, mobile apps, websites, and portfolios. Contact me to discuss prospective collaborations or projects and to bring your concepts to reality.
+Welcome to the portfolio of Maitri Patel, a professional web developer who specialises in Angular, HTML5, HTML, JavaScript, Node.js, CSS, GitHub, and Hostinger. Explore a handpicked collection of my finest web development work, including Angular websites, mobile apps, websites, and portfolios. Contact me to discuss prospective collaborations or projects and to bring your concepts to reality.
 
 ## Technologies and Skills
 
